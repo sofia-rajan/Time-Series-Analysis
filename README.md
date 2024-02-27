@@ -49,10 +49,10 @@ To achieve our objectives, we will follow these steps:
    - Evaluate models using metrics such as R-squared, Adjusted R-squared, and Mean Squared Error (MSE) to gain insights into air pollution in the United States.
 
 ## Contributors:
+- Sofia Rajan
 - Prriyamvradha Parthasarathi
 - Premi Jawahar Vasagam
 - Mira Radhakrishnan
-- Sofia Rajan
 - Martin Navarro
 - Manoj Mareedu
 - Vyshnavi Gangineni
